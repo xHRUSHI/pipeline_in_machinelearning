@@ -1,7 +1,7 @@
 # pipeline_in_machinelearning
 
 
-## Difination
+# deffination
 
 ### [*] Sequentially apply a list of transforms and a final estimator.
 ### [*]  Intermediate steps of the pipeline must be ‘transforms’, that is, they must implement fit and transform methods. The final estimator only needs to implement fit.
